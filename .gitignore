@@ -12,3 +12,6 @@ Thumbs.db
 #########################
 *.pyc
 .ipynb_checkpoints
+.vscode/*
+interpretability/data/walk-or-run/*
+interpretability/data/students-performance-in-exams/*
